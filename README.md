@@ -2,7 +2,7 @@
 
 This is a Spring Boot backend project designed to manage dairy milk collection and settlements in rural village areas. It records daily milk data from suppliers, calculates payments based on cow/buffalo milk rates, and generates monthly summaries.
 
-> 📦 **Frontend Code Available At:** [https://github.com/padi-premsai/dairy-farm](https://github.com/padi-premsai/dairy-farm)
+> 📦 **Frontend Code Available At:** [Dairy Farm (Angular)](https://github.com/padi-premsai/dairy-farm)
 
 ---
 
